@@ -1,2 +1,2 @@
-# upwork_projects
-Repository for demo projects posted in Upwork profile
+# Upwork Projects
+Repository for demo projects posted in Upwork profile. Currently a work-in-progress. 
